@@ -46,3 +46,7 @@ CSS3 – for layout and styling
 JavaScript – for basic interactivity
 
 Responsive Design Techniques
+
+📬 Contact
+
+Created by [nima moghaddami] — feel free to reach out via email or social media for collaboration.
